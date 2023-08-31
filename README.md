@@ -23,7 +23,3 @@
 </div>
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yankees868)
-
-###
