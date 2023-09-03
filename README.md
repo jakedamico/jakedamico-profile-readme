@@ -14,7 +14,8 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/jakedamico/jakedamico/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/jakedamico/jakedamico/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
